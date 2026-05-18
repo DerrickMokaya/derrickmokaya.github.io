@@ -1,39 +1,134 @@
-# Chirpy Starter
+# Derrick Jesse Mokaya — Portfolio
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+Personal portfolio and blog built with [Jekyll Chirpy Theme](https://github.com/cotes2046/jekyll-theme-chirpy) and hosted on GitHub Pages.
 
-A minimal, ready-to-use template for creating a blog with the [**Chirpy**][chirpy] Jekyll theme. Get up and running in minutes with all critical files pre-configured.
+## 🚀 Live Site
 
-## Why This Starter Exists
+> https://derrickmokaya.github.io  *(update after deployment)*
 
-When installing Chirpy through [RubyGems.org][gem], Jekyll can only read a subset of theme files (`_data`, `_layouts`, `_includes`, `_sass`, `assets`) and limited `_config.yml` options from the gem. As a result, users cannot enjoy the full out-of-the-box experience that Chirpy offers.
+---
 
-To unlock all features, the following files must be present in your Jekyll site:
+## 📁 File Structure
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
+```
+portfolio/
+├── _config.yml          # Site-wide settings — update this first
+├── _tabs/
+│   ├── about.md         # CV / About page
+│   ├── projects.md      # Projects showcase
+│   └── contact.md       # Contact page
+├── _posts/
+│   ├── 2025-11-01-welcome.md
+│   └── 2025-10-15-nssf-reconciliation.md
+├── assets/
+│   ├── img/
+│   │   └── avatar.jpg   # Your profile photo
+│   └── files/
+│       └── Derrick_Jesse_Mokaya_CV.pdf  # Upload your CV here
+├── Gemfile
+└── README.md
 ```
 
-This starter bundles those files from the latest **Chirpy** release along with a [CD][CD] workflow, so you can start writing immediately.
+---
 
-## Usage
+## ⚙️ Setup Instructions
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+### 1. Fork the Chirpy Starter
 
-## Contributing
+Go to: https://github.com/cotes2046/chirpy-starter  
+Click **"Use this template"** → **"Create a new repository"**  
+Name it: `YOUR_GITHUB_USERNAME.github.io`
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+### 2. Clone Your New Repo
 
-## License
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_USERNAME.github.io.git
+cd YOUR_USERNAME.github.io
+```
 
-This work is published under [MIT][mit] License.
+### 3. Copy These Files Into Your Repo
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+Replace or add all files from this package into your cloned repo folder.
+
+### 4. Update `_config.yml`
+
+Open `_config.yml` and update:
+
+```yaml
+url: "https://YOUR_USERNAME.github.io"
+github:
+  username: YOUR_USERNAME
+social:
+  email: your.email@gmail.com
+  links:
+    - https://www.linkedin.com/in/YOUR_LINKEDIN
+```
+
+### 5. Add Your CV PDF
+
+Create the folder `assets/files/` and drop in:
+- `Derrick_Jesse_Mokaya_CV.pdf`
+
+### 6. Commit and Push
+
+```bash
+git add .
+git commit -m "Initial portfolio setup"
+git push origin main
+```
+
+### 7. Enable GitHub Pages
+
+Go to your repo → **Settings** → **Pages**  
+Source: **GitHub Actions** (Chirpy uses the built-in Jekyll workflow)
+
+Your site will be live at `https://YOUR_USERNAME.github.io` within 2–5 minutes.
+
+---
+
+## ✏️ Adding New Blog Posts
+
+Create a new file in `_posts/` following the naming convention:
+
+```
+YYYY-MM-DD-post-title.md
+```
+
+Example: `_posts/2025-12-01-my-power-bi-project.md`
+
+Front matter template:
+
+```yaml
+---
+title: "Your Post Title"
+date: 2025-12-01 09:00:00 +0300
+categories: [Projects, Data Analytics]
+tags: [power-bi, sql, excel]
+---
+
+Your content here in Markdown.
+```
+
+---
+
+## 🎨 Customisation Tips
+
+- **Dark mode:** Change `theme_mode: light` to `theme_mode: dark` in `_config.yml`
+- **Avatar:** Replace `assets/img/avatar.jpg` with your photo (keep the same filename)
+- **Sidebar links:** Add social links under `social.links` in `_config.yml`
+- **Favicon:** Add favicon files to `assets/img/favicons/` (use https://realfavicongenerator.net)
+
+---
+
+## 📦 Local Development (Optional)
+
+```bash
+# Install Ruby + Bundler first, then:
+bundle install
+bundle exec jekyll serve
+# Visit http://localhost:4000
+```
+
+---
+
+Built with ❤️ using [Chirpy](https://github.com/cotes2046/jekyll-theme-chirpy)
