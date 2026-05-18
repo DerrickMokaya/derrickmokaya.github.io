@@ -30,7 +30,7 @@ Strong organizational skills, accuracy, and ability to work independently in fas
 
 ## Professional Experience
 
-### Finance & Data Analytics Intern
+### Finance & Data Analytics Attache
 **National Social Security Fund (NSSF) Kenya** | *May 2025 – August 2025*
 
 - Assisted in financial data verification, reconciliation, and reporting processes.
@@ -60,10 +60,23 @@ Strong organizational skills, accuracy, and ability to work independently in fas
 
 ## Certifications
 
-- 🏅 **Certified Business Analysis Professional (CBAP)** – 2025
-- 🏅 **Google** – Data/Analytics Certification
-- 🏅 **IBM** – Data Science / Analytics
-- 🏅 **Cisco** – Networking / Cybersecurity Fundamentals
+- Google Advanced Data Analytics ZNXDGTY4J7JA 
+- Google IT Support 6947F1VAGRM9
+- Google Business Intelligence OVFEHIAK5KJL
+- IBM Data Science CEWRNJEMPPYL
+- IBM Data Analyst 5DDSTYUGNCBJ 
+- Certified Business Analysis Professional (CBAP) HWG9A8QR90R7
+- Cisco Certified Ethical Hacker USIU-Africa/Cyber Shujaa Program
+- SOC Tier I Analyst Certification USIU-Africa/Cyber Shujaa Program
+- Decentralized Finance Coursera ZE334DZC0OPL
+- Microsoft Data Visualization U0RRARH2O7ZX
+- Microsoft Business Analyst  AD3WAMY75BV3
+- Microsoft Program Management KINR4S95GT5G
+- Microsoft Power BI Data Analyst WQLAHSIDCYUM
+- Microsoft Power BI & Power Platform for Productivity GYC532A63HMM
+- Microsoft Public Relations and Communications Associate  MZ9TACEO1Y8A
+- Yale Financial Markets Certificate
+
 
 ---
 
