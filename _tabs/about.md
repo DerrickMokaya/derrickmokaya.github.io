@@ -48,16 +48,39 @@ Strong organizational skills, accuracy, and ability to work independently in fas
 
 ## Core Competencies
 
-| Finance & Accounting | Data & Analytics | Soft Skills |
-|---|---|---|
-| Financial Reporting & Reconciliation | Microsoft Excel (Pivots, VLOOKUP) | Attention to Detail |
-| Accounts Payable & Receivable | SQL & Data Analytics | Time Management |
-| Budget Tracking & Expense Monitoring | Power BI | Communication |
-| Bookkeeping Fundamentals | Python (Basic Analytics) | Team Collaboration |
-| Financial Data Analysis | Business Intelligence | Problem Solving |
+### Finance & Accounting
+- Financial Reporting & Reconciliation
+- Accounts Payable & Receivable Support
+- Budget Tracking & Expense Monitoring
+- Bookkeeping Fundamentals
+- Financial Data Analysis
 
----
+### Data & Analytics
+- AI Enablement & Data Readiness
+- Data Governance & Data Quality
+- ETL & Data Integration
+- Enterprise Information Management
+- Power BI & Tableau Dashboards
+- Advanced Excel & Automation
+- Statistical Analysis & Predictive Modelling
 
+### Data Management & Architecture
+- Data Governance · Metadata Management
+- Data Lineage · Data Cataloguing
+- Master Data Management (MDM)
+- Data Integration & APIs
+
+### Cybersecurity & Risk
+- Cybersecurity Governance Awareness
+- Risk Analytics
+- Compliance & Controls Awareness
+
+### Soft Skills
+- Attention to Detail & Accuracy
+- Time Management & Organisation
+- Communication & Team Collaboration
+- Problem Solving & Analytical Thinking
+  
 ## Certifications
 
 - Google Advanced Data Analytics ZNXDGTY4J7JA 
