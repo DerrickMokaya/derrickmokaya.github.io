@@ -8,7 +8,9 @@ order: 1
 # Derrick Jesse Mokaya
 
 **Nairobi, Kenya** | 📧 [derekmokaya54@gmail.com](mailto:derekmokaya54@gmail.com) | 📞 +254 711 558 103 | [LinkedIn](https://www.linkedin.com/in/derrickmokaya)
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="derrick-m-a387601b4" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ke.linkedin.com/in/derrick-m-a387601b4?trk=profile-badge">Derrick M.</a></div>
+          
 ---
 
 ## Professional Summary
